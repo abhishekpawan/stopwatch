@@ -7,7 +7,7 @@
   <h3 align="center">A Stop-Watch</h3>
 
   <p align="center">
-    <a href="https://abhi-stopwatch-app.herokuapp.com/">View Demo</a> | <a href="https://github.com/abhishekpawan/stopwatch/issues">Report Bug</a>
+    <a href="https://mellifluous-tapioca-051cf4.netlify.app/">View Demo</a> | <a href="https://github.com/abhishekpawan/stopwatch/issues">Report Bug</a>
   </p>
 </div>
 
