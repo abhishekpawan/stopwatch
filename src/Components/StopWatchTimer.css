@@ -1,0 +1,39 @@
+.dial{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.dial .innerDial{
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  border-radius: 50%;
+
+  height: 300px;
+  width: 300px;
+}
+
+.dial .innerDial .timer{
+  margin-top: 60px;
+  color: white;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.dial .innerDial .timer h1{
+  font-size: 50px;
+
+}
+
+.dial .innerDial .timer p{
+  display: flex;
+  justify-content: right;
+  font-size: 30px;
+  color: red;
+  margin-right: 30px;
+
+  
+}

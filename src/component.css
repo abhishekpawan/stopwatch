@@ -1,0 +1,15 @@
+.save.show{
+    display: block;
+}
+
+.save.hide{
+    display: none;
+}
+
+.content input{
+    border: none;
+}
+
+.content.editable input{
+    border: 1px solid black;
+}
